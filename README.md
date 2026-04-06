@@ -50,7 +50,9 @@ This produces a **bandpass / Bragg mirror-like structure**.
 
 - Target: Narrow high-reflectance band at 550 nm  
 - Output: Optimized multilayer stack  
-- Result: Physically valid reflectance spectrum closely matching the target  
+- Result: Physically valid reflectance spectrum closely matching the target
+  <img width="1040" height="756" alt="image" src="https://github.com/user-attachments/assets/6c77ed28-284c-454b-81ce-330123813cad" />
+
 
 
 
